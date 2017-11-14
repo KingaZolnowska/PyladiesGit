@@ -1,1 +1,3 @@
-To jest pbjkbjbjkbjbjbjbjbjbjbjbjbjbooooooooo
+To jest plik testowy
+test 2
+zmiana 1
